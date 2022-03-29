@@ -1,18 +1,19 @@
 // Best practice:
 // For a good separation of concerns, don't rely on the DOM element names,
 // but on dedicated CSS selectors to identify all elements
-.cmp-helloworld {
-    background-color: aqua;
+.cmp-colleen {
+    border-radius: 20%;
+    background-color: #aaaaff;
 }
-.cmp-helloworld__title {
-    color: red;
+.cmp-colleen__title {
+    color: rgb(231, 83, 199);
 }
-.cmp-helloworld__item {
+.cmp-colleen__item {
     color: purple;
 }
-.cmp-helloworld__item-label {
+.cmp-colleen__item-label {
     margin-bottom: 0;
 }
-.cmp-helloworld__item-output {
+.cmp-colleen__item-output {
     margin-top: 0;
 }
