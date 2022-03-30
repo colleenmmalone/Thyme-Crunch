@@ -1,9 +1,15 @@
 // Best practice:
 // For a good separation of concerns, don't rely on the DOM element names,
 // but on dedicated CSS selectors to identify all elements
-.cmp-helloworld {}
-.cmp-helloworld__title {}
-.cmp-helloworld__item {}
+.cmp-helloworld {
+    background-color: aqua;
+}
+.cmp-helloworld__title {
+    color: red;
+}
+.cmp-helloworld__item {
+    color: purple;
+}
 .cmp-helloworld__item-label {
     margin-bottom: 0;
 }
