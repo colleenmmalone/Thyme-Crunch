@@ -16,3 +16,6 @@
         </image>
     </cq:dropTargets>
 </jcr:root>
+
+<!-- this was copied directly from the image component. this puts the 
+image drag-and-drop functionality into the dialog, and it has a lot of features already included in it -->

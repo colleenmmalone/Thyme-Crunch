@@ -36,3 +36,10 @@
     </content>
     
 </jcr:root>
+
+
+<!-- 
+this is modified from the helloworld component. I changed the fields to "Title" and "Flavor Text"
+these fields are referenced in the .html file via properties.name
+for example, from line 25:
+${properties.title} -->

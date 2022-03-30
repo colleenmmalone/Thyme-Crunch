@@ -6,3 +6,7 @@
     jcr:title="Recipe Card"
     sling:resourceSuperType="core/wcm/components/image/v2/image"
     componentGroup="ThymeCrunch - Content"/>
+
+<!-- 
+    this was modifiend directly from the helloworld component
+    I only changed jcr:title and componentGroup -->
